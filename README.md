@@ -20,4 +20,4 @@ Design: Figma | Miro
 🔹 Capstone AI System
 
 ## 📊 GitHub Stats  
-![ GitHub Stats ](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Lungile's GitHub stats](https://github-readme-stats.vercel.app/api?username=elyeager1829)
